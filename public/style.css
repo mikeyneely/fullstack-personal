@@ -1,0 +1,13 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color: #6622CC;
+  color: white;
+}
+img{
+  height: 200px;
+}
+#purple {
+  background-color: #6622CC;
+  color: white;
+}
